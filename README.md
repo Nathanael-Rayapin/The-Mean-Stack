@@ -1,6 +1,13 @@
-# MeanCourse
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://camo.githubusercontent.com/3f6a835e1b721822c526e830777c6780587789da4c78012463d9ac11f8f6b83f/687474703a2f2f636f6465636f6e646f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30382f372d46656174757265732d6f662d4d45414e2d537461636b5f3738352e706e67" alt="Logo" width="780" height="409">
+  </a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+<h3 align="center">The_MEAN_Stack_Guide</h3>
+
+  <p align="center">Getting Started with Create MEAN App (under construction)</p>
+</div>
 
 ## Development server
 
